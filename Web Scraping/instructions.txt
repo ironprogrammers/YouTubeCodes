@@ -1,0 +1,1 @@
+For this module you have to install requests and beautiful module.
